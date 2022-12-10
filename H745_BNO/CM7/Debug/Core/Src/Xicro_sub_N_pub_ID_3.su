@@ -1,0 +1,38 @@
+/opt/st/stm32cubeide_1.10.1/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.10.3-2021.10.linux64_1.0.0.202111181127/tools/arm-none-eabi/include/c++/10.3.1/arm-none-eabi/thumb/v7e-m+dp/hard/bits/gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+../Core/Inc/Xicro_sub_N_pub_ID_3.h:38:15:constexpr Xicro::<unnamed struct>::<unnamed struct>::<unnamed struct>::<constructor>()	16	static
+../Core/Inc/Xicro_sub_N_pub_ID_3.h:35:15:constexpr Xicro::<unnamed struct>::<unnamed struct>::<constructor>()	32	static
+../Core/Inc/Xicro_sub_N_pub_ID_3.h:46:15:constexpr Xicro::<unnamed struct>::<unnamed struct>::<constructor>()	16	static
+../Core/Inc/Xicro_sub_N_pub_ID_3.h:54:15:constexpr Xicro::<unnamed struct>::<unnamed struct>::<constructor>()	16	static
+../Core/Inc/Xicro_sub_N_pub_ID_3.h:61:15:constexpr Xicro::<unnamed struct>::<unnamed struct>::<constructor>()	16	static
+../Core/Inc/Xicro_sub_N_pub_ID_3.h:29:15:constexpr Xicro::<unnamed struct>::<constructor>()	16	static
+../Core/Inc/Xicro_sub_N_pub_ID_3.h:137:15:constexpr Xicro::<unnamed struct>::<unnamed struct>::<unnamed struct>::<constructor>()	16	static
+../Core/Inc/Xicro_sub_N_pub_ID_3.h:134:15:constexpr Xicro::<unnamed struct>::<unnamed struct>::<constructor>()	32	static
+../Core/Inc/Xicro_sub_N_pub_ID_3.h:145:15:constexpr Xicro::<unnamed struct>::<unnamed struct>::<constructor>()	16	static
+../Core/Inc/Xicro_sub_N_pub_ID_3.h:153:15:constexpr Xicro::<unnamed struct>::<unnamed struct>::<constructor>()	16	static
+../Core/Inc/Xicro_sub_N_pub_ID_3.h:160:15:constexpr Xicro::<unnamed struct>::<unnamed struct>::<constructor>()	16	static
+../Core/Inc/Xicro_sub_N_pub_ID_3.h:128:15:constexpr Xicro::<unnamed struct>::<constructor>()	16	static
+../Core/Src/Xicro_sub_N_pub_ID_3.cpp:9:1:Xicro::Xicro()	32	static
+../Core/Src/Xicro_sub_N_pub_ID_3.cpp:11:6:void Xicro::begin(UART_HandleTypeDef*)	16	static
+../Core/Src/Xicro_sub_N_pub_ID_3.cpp:105:9:uint8_t Xicro::_getcrc(uint8_t, uint8_t*, uint16_t)	32	static
+../Core/Src/Xicro_sub_N_pub_ID_3.cpp:117:6:void Xicro::_Sendstart()	16	static
+../Core/Src/Xicro_sub_N_pub_ID_3.cpp:120:6:void Xicro::_Sendstop()	16	static
+../Core/Src/Xicro_sub_N_pub_ID_3.cpp:124:6:void Xicro::_Sendcontinue()	16	static
+../Core/Src/Xicro_sub_N_pub_ID_3.cpp:128:6:void Xicro::_SendSignature(uint8_t, uint8_t)	24	static
+../Core/Src/Xicro_sub_N_pub_ID_3.cpp:135:6:void Xicro::_SendUint8(uint8_t*, uint8_t)	32	static
+../Core/Src/Xicro_sub_N_pub_ID_3.cpp:152:6:void Xicro::_SendUint16(uint16_t*, uint8_t)	72	dynamic
+../Core/Src/Xicro_sub_N_pub_ID_3.cpp:177:6:void Xicro::_SendUint32(uint32_t*, uint8_t)	80	dynamic
+../Core/Src/Xicro_sub_N_pub_ID_3.cpp:206:6:void Xicro::_SendUint64(uint64_t*, uint8_t)	80	dynamic
+../Core/Src/Xicro_sub_N_pub_ID_3.cpp:242:6:void Xicro::_SendInt8(int8_t*, uint8_t)	32	static
+../Core/Src/Xicro_sub_N_pub_ID_3.cpp:257:6:void Xicro::_SendInt16(int16_t*, uint8_t)	72	dynamic
+../Core/Src/Xicro_sub_N_pub_ID_3.cpp:281:6:void Xicro::_SendInt32(int32_t*, uint8_t)	80	dynamic
+../Core/Src/Xicro_sub_N_pub_ID_3.cpp:308:6:void Xicro::_SendInt64(int64_t*, uint8_t)	80	dynamic
+../Core/Src/Xicro_sub_N_pub_ID_3.cpp:344:6:void Xicro::_SendFloat32(float*, uint8_t)	48	static
+../Core/Src/Xicro_sub_N_pub_ID_3.cpp:366:6:void Xicro::_SendDouble(double*, uint8_t)	48	static
+../Core/Src/Xicro_sub_N_pub_ID_3.cpp:388:6:void Xicro::_SendString(std::string*, uint8_t)	48	static
+../Core/Src/Xicro_sub_N_pub_ID_3.cpp:414:6:void Xicro::_SendBool(bool*, uint8_t, bool)	88	dynamic
+../Core/Src/Xicro_sub_N_pub_ID_3.cpp:464:6:void Xicro::_Sendcrc()	16	static
+../Core/Src/Xicro_sub_N_pub_ID_3.cpp:467:6:void Xicro::_SendIdTopic(uint8_t)	16	static
+../Core/Src/Xicro_sub_N_pub_ID_3.cpp:471:6:void Xicro::Test()	16	static
+../Core/Src/Xicro_sub_N_pub_ID_3.cpp:484:6:void Xicro::publish_fake_Imu_stm32(int32_t, uint32_t, std::string, double, double, double, double, double*, double, double, double, double*, double, double, double, double*)	88	static
+../Core/Src/Xicro_sub_N_pub_ID_3.cpp:534:6:void Xicro::Spin_node()	2856	static
+/opt/st/stm32cubeide_1.10.1/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.10.3-2021.10.linux64_1.0.0.202111181127/tools/arm-none-eabi/include/c++/10.3.1/bits/basic_string.h:6097:5:std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, _CharT) [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>]	24	static
